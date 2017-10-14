@@ -1,6 +1,6 @@
 # Riot Router
 
-[![Build Status][travis-image]][travis-url] [![Code Quality][codeclimate-image]][codeclimate-url] [![NPM version][npm-version-image]][npm-url] [![NPM downloads][npm-downloads-image]][npm-url] [![MIT License][license-image]][license-url] [![Coverage Status][coverage-image]][coverage-url]
+[![Build Status][travis-image]][travis-url] [![Code Quality][codeclimate-image]][codeclimate-url] [![NPM version][npm-version-image]][npm-url] [![NPM downloads][npm-downloads-image]][npm-url] [![jsDelivr Hits][jsdelivr-image]][jsdelivr-url] [![MIT License][license-image]][license-url] [![Coverage Status][coverage-image]][coverage-url]
 
 > Simple client-side router
 
@@ -96,3 +96,7 @@ MIT (c) Muut, Inc. and other contributors
 
 [codeclimate-image]:https://img.shields.io/codeclimate/github/riot/route.svg?style=flat-square
 [codeclimate-url]:https://codeclimate.com/github/riot/route
+
+[jsdelivr-image]: https://data.jsdelivr.com/v1/package/npm/riot-route/badge
+[jsdelivr-url]: https://www.jsdelivr.com/package/npm/riot-route
+
